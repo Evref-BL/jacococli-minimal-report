@@ -2,7 +2,7 @@ name: Javadoc
 
 on:
   workflow_run:
-    workflows: [ "Gradle Build" ]
+    workflows: [ "Build" ]
     branches: [ "main" ]
     types:
       - completed
