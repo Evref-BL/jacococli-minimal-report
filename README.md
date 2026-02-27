@@ -1,3 +1,6 @@
+[![Build](https://github.com/Evref-BL/jacococli-minimal-report/actions/workflows/build.yml/badge.svg)](https://github.com/Evref-BL/jacococli-minimal-report/actions/workflows/build.yml)
+[![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://Evref-BL.github.io/jacococli-minimal-report/)
+
 # jacococli-minimal-report
 
 Generate minimal JSON coverage reports from JaCoCo execution data.
